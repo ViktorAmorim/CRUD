@@ -1,6 +1,6 @@
 ## 🖥️ Projeto
 
-Esse é um projeto Web Responsivo com intuito de armazenar dados no localstorage e exibir na tela o conteudo organizado.
+CRUD: (Create Read Update Delete) Esse é um projeto Web Responsivo com intuito de armazenar dados no localstorage e exibir na tela o conteudo organizado.
 
 ## 🚀 Tecnologias
 
